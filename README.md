@@ -9,18 +9,6 @@
 ╚══════╝ ╚═════╝ ╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚══════╝╚══════╝ ╚═════╝ ╚══▀▀═╝
 ```
 
-</div>
-
----
-
-<div align="center">
-
-**DevOps · Automation · VPN Tools**
-
-*Infrastructure that works. Bots that think. Software that ships.*
-
-</div>
-
 ---
 
 ### what i do
@@ -28,7 +16,7 @@
 ```yaml
 role:       DevOps Engineer
 focus:      [ automation, bots, networking ]
-building:   VPN client for PC
+
 ```
 
 ---
@@ -58,11 +46,5 @@ building:   VPN client for PC
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=luminescq&theme=dark&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e" />
-
-</div>
-
-<div align="center">
-
-<sub>currently in build mode 🔧</sub>
 
 </div>
