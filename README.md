@@ -61,19 +61,6 @@ building:   VPN client for PC
 
 </div>
 
----
-
-### contact
-
-<div align="center">
-
-[![Telegram](https://img.shields.io/badge/@luminescq-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/luminescq)
-[![GitHub](https://img.shields.io/badge/github-luminescq-181717?style=flat-square&logo=github)](https://github.com/luminescq)
-
-</div>
-
----
-
 <div align="center">
 
 <sub>currently in build mode 🔧</sub>
