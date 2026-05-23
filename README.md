@@ -15,6 +15,7 @@
 
 ```yaml
 role:       DevOps Engineer
+
 focus:      [ automation, bots, networking ]
 
 ```
