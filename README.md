@@ -9,19 +9,6 @@
 ╚══════╝ ╚═════╝ ╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚══════╝╚══════╝ ╚═════╝ ╚══▀▀═╝
 ```
 
----
-
-### what i do
-
-```yaml
-role:       DevOps Engineer
-
-focus:      [ automation, bots, networking ]
-
-```
-
----
-
 ### stack
 
 <div align="center">
